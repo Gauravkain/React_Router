@@ -1,0 +1,13 @@
+body {
+  background-color: lightblue;
+}
+
+div{
+  text-align: center;
+  padding: 70px 0;
+}
+
+a.active_class{
+ color: blue;
+ border-bottom: 1px solid red; 
+}
